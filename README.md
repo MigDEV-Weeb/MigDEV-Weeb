@@ -1,16 +1,23 @@
-### Hi there 👋
+# <div align="center"><h3>I'm MigDEV<h5>C++ and Java Developer</h5></h3></div>
 
-<!--
-**MigDEV-Weeb/MigDEV-Weeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"><center style="font-style: oblique; font-size:110%; font-family:"Times New Roman", Times, serif">I'm currently learning C++.</div>  
+  
 
-Here are some ideas to get you started:
+<br/>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MigDEV-Weeb&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+<h3 align="center">Languages:</h3>
+<p align="center"> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://isocpp.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="rust" width="35" height="40"/> </a> </p>
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=MigDEV-Weeb&&style=flat-square" align="center" />
+</div>  
+  
+
+
+
