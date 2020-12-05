@@ -1,7 +1,8 @@
 # <div align="center"><h3>I'm MigDEV<h5>C++ and Java Developer</h5></h3></div>
 
 <div align="center"><center style="font-style: oblique; font-size:110%; font-family:"Times New Roman", Times, serif">I'm currently learning C++.</div>  
-  
+
+<div align="center"><center style="font-style: oblique; font-size:110%; font-family:"Times New Roman", Times, serif">Discord: MigdevP#3108</div>  
 
 <br/>  
 
