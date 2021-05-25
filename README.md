@@ -2,7 +2,7 @@
 
 <div align="center"><center style="font-style: oblique; font-size:110%; font-family:"Times New Roman", Times, serif">I'm currently learning C++.</div>  
 
-<div align="center"><center style="font-style: oblique; font-size:110%; font-family:"Times New Roman", Times, serif">Discord: ミゲル / Miguel#0544</div>  
+<div align="center"><center style="font-style: oblique; font-size:110%; font-family:"Times New Roman", Times, serif">Discord: migdev#1802</div>  
 
 <br/>  
 
