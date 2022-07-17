@@ -1,8 +1,8 @@
 # <div align="center"><h3>I'm MigDEV<h5>Student and Developer</h5></h3></div>
 
-<div align="center"><center style="font-style: oblique; font-size:110%; font-family:"Times New Roman", Times, serif">I'm currently learning C++ and Rust.</div>  
+<div align="center"><center style="font-style: oblique; font-size:110%; font-family:"Times New Roman", Times, serif">Probably the worst developer out there :c</div>  
 
-<div align="center"><center style="font-style: oblique; font-size:110%; font-family:"Times New Roman", Times, serif">Discord: migdev#1802</div>  
+<div align="center"><center style="font-style: oblique; font-size:110%; font-family:"Times New Roman", Times, serif">Even after 7 years of experience a newbie</div>  
 
 <br/>  
 
